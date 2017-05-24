@@ -1,0 +1,11 @@
+Package: Hello
+Type: Package
+Title: Say Hello to Somthing
+Version: 0.1.0
+Author: Xujing
+Maintainer: Xujing<274762204@qq.com>
+Description: Package that say hello to the world!
+License: GPL(>=2)
+Version: 1.0
+Date: 2017-05-24
+
